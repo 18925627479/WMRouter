@@ -132,5 +132,5 @@ WMRouter适用但不限于以下场景：
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-> - 如有遗漏和需要补充的，可按照 [all-contributors](https://allcontributors.org/docs/en/cli/overview) 文档自行添加，并创建Pull Request。
+> - 如有遗漏和需要补充的，可按照 [all-contributors](https://allcontributors.org/overview/) 文档自行添加，并创建Pull Request。
 > - 参与贡献者可加微信jzj2015，进入 WMRouter Contributors 微信群学习交流。
